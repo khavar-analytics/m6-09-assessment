@@ -1,0 +1,13 @@
+{
+  "first_name": "Khavar",
+  "last_name": "Gasimova",
+  "team": "khavar-gasimova",
+  "model": {
+    "framework": "yolo26",
+    "variant": "yolo26s",
+    "imgsz": 640,
+    "epochs_total": 30,
+    "tricks": []
+  },
+  "notes": "Week-1 yolo26s baseline, mAP@0.5=0.915"
+}
